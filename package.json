@@ -2,6 +2,7 @@
   "name": "foo",
   "version": "0.0.1",
   "dependencies": {
+    "left-pad": "^1.0.0",
     "@angular/core": "5.0.0",
     "@angular/http": "5.0.0",
     "chalk": "2.0.0"
