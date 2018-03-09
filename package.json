@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "dependencies": {
     "@angular/core": "5.0.0",
-    "@angular/http": "5.0.0",
+    "@angular/http": "5.2.8",
     "chalk": "2.0.0"
   },
   "renovate": {
