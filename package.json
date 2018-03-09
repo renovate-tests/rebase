@@ -5,6 +5,5 @@
     "chalk": "2.0.0"
   },
   "renovate": {
-    "rebaseStalePrs": false
   }
 }
