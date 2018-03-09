@@ -8,6 +8,7 @@
   },
   "renovate": {
     "extends": ["config:base"],
+    "prHourlyLimit": 0,
     "rebaseStalePrs": false
   }
 }
