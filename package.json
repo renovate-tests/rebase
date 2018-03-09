@@ -4,8 +4,8 @@
   "dependencies": {
     "left-pad": "1.2.0",
     "got": "8.3.0",
-    "@angular/core": "4.0.0",
-    "@angular/http": "4.0.0",
+    "@angular/core": "5.2.8",
+    "@angular/http": "5.2.8",
     "chalk": "1.0.0"
   },
   "renovate": {
