@@ -2,7 +2,7 @@
   "name": "foo",
   "version": "0.0.1",
   "engines": {
-    "node": "9.4.0"
+    "node": "9.7.1"
   },
   "dependencies": {
     "left-pad": "1.2.0",
