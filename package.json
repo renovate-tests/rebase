@@ -1,6 +1,9 @@
 {
   "name": "foo",
   "version": "0.0.1",
+  "engines": {
+    "node": "9.4.0"
+  },
   "dependencies": {
     "left-pad": "1.2.0",
     "got": "8.3.0",
