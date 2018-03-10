@@ -1,4 +1,4 @@
-FROM node:8.9.0 as foo
+FROM node:8.9.0@sha256:ae75ba3568f2c3d93b0952bd1a1888434bbd6e2ea8c907aa57836958be688cef as foo
 RUN something
 
 FROM renovate/renovate:11@sha256:8e678d08b8fd3dec52ddaaaaaaaaaacec82ad900320e73974b9affb6
