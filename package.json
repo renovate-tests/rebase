@@ -15,6 +15,7 @@
     "extends": ["config:base"],
     "prHourlyLimit": 0,
     "semanticCommits": true,
+    "recreateClosed": true,
     "node": {
       "supportPolicy": "current"
     },
